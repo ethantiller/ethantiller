@@ -24,7 +24,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethantiller&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ethantiller&theme=radical"
+    alt="GitHub streak"
+    height="165"
+  />
 </p>
+
 
 ---
 
@@ -34,3 +40,5 @@
 - 📚 Always learning—whether it’s **new frameworks**, **low-level systems**, or **AI APIs**.  
 
 📫 **Reach me on GitHub or connect via [LinkedIn](https://www.linkedin.com/in/ethan-tiller-ba5475225)**.  
+
+<img src="https://komarev.com/ghpvc/?username=ethantiller&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
