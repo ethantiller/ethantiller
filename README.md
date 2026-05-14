@@ -2,7 +2,7 @@
 
 🎓 I’m a **third-year Computer Science major** at the **University of Cincinnati**.  
 💻 Passionate about building software that is **needed** and **challenging**
-👨‍💻 Currently working as a Software Engineering Intern for GE Appliances.
+👨‍💻 Currently working as a AI Engineering @ P&G.
 📖 I am currently exploring all types of programming/development.
 
 ---
