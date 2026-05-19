@@ -22,13 +22,10 @@
 
 ## 📊 GitHub Stats  
 
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethantiller&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ethantiller&theme=radical"
-    alt="GitHub streak"
-    height="165"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethantiller&theme=radical" alt="GitHub Streak" height="195"/>
 </p>
 
 
