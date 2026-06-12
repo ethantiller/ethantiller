@@ -36,7 +36,7 @@
 - Always learning—whether it’s **new frameworks**, **low-level systems**, or **AI APIs** to stay consistent in this crazy fast-paced field
 
 ## Reach me on:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ethan-tiller-ba5475225/])
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-tiller-ba5475225)
 - [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tiller.ethan05@gmail.com)
 
 
