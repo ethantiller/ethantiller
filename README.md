@@ -25,6 +25,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ethantiller&hide_border=true&theme=transparent&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ethantiller&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
 
 
